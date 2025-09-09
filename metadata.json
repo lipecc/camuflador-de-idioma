@@ -1,0 +1,5 @@
+{
+  "name": "Camuflador de Idioma",
+  "description": "Uma ferramenta para camuflar texto substituindo caracteres latinos por seus equivalentes cirílicos (alfabeto russo) visualmente semelhantes.",
+  "requestFramePermissions": []
+}
